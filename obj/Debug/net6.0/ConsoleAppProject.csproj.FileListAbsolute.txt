@@ -1,0 +1,14 @@
+C:\Users\User\Masaüstü\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.exe
+C:\Users\User\Masaüstü\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.deps.json
+C:\Users\User\Masaüstü\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.runtimeconfig.json
+C:\Users\User\Masaüstü\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.dll
+C:\Users\User\Masaüstü\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.pdb
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.AssemblyInfo.cs
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.dll
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\refint\ConsoleAppProject.dll
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.pdb
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.genruntimeconfig.cache
+C:\Users\User\Masaüstü\ConsoleAppProject\obj\Debug\net6.0\ref\ConsoleAppProject.dll
